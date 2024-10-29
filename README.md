@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
----
-
 # Introducción
 
 <figure><img src=".gitbook/assets/photo_2023-11-14_18-28-31 (2).jpg" alt="" width="320"><figcaption></figcaption></figure>
